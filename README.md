@@ -1,2 +1,0 @@
-# Introduction
-git --tutorial mhdSulhan
