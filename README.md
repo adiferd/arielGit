@@ -1,2 +1,2 @@
-# arielGit
+# Introduction
 git --tutorial mhdSulhan
